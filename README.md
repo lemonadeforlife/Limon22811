@@ -1,4 +1,4 @@
-<h3>👋Hello I am Limon aka <a href="https://github.com/lemonadeforlife">Lemonade</a></h3>
+<h3>👋Hello I am <a href="https://github.com/lemonadeforlife">Lemonade</a></h3>
 <ul type="None">
 <li>🔵 I am Student & somewhere in my mind considering a Developer.</li>
 <li>🟢 I’m interested in Python🐍.</li>
